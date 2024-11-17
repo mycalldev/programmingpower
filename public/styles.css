@@ -1,0 +1,19 @@
+/* Form Messages */
+.form-message {
+    margin-top: 1em;
+    padding: 0.8em;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.form-message.success {
+    background-color: #2ecc71; /* Green */
+    color: white;
+}
+
+.form-message.error {
+    background-color: #e74c3c; /* Red */
+    color: white;
+}

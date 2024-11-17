@@ -1,0 +1,15 @@
+{
+	{
+		"id": 1,
+        "title": "My First Post",
+        "content": "This is my first blog post!",
+        "date": "2024-11-16"
+	},
+
+	{
+		"id": 2,
+        "title": "My Second Post",
+        "content": "This is my second blog post!",
+        "date": "2024-11-16"
+	},
+}
